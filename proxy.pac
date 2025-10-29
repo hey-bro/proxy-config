@@ -8,3 +8,4 @@ function FindProxyForURL(url, host) {
   }
   return "DIRECT";
 }
+// https://hey-bro.github.io/proxy-config/proxy.pac
